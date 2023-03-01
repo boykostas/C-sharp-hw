@@ -1,0 +1,15 @@
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/bin/Debug/net6.0/hw_task2
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/bin/Debug/net6.0/hw_task2.deps.json
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/bin/Debug/net6.0/hw_task2.runtimeconfig.json
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/bin/Debug/net6.0/hw_task2.dll
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/bin/Debug/net6.0/hw_task2.pdb
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/hw_task2.csproj.AssemblyReference.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/hw_task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/hw_task2.AssemblyInfoInputs.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/hw_task2.AssemblyInfo.cs
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/hw_task2.csproj.CoreCompileInputs.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/hw_task2.dll
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/refint/hw_task2.dll
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/hw_task2.pdb
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/hw_task2.genruntimeconfig.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson1_hw/hw_task2/obj/Debug/net6.0/ref/hw_task2.dll
