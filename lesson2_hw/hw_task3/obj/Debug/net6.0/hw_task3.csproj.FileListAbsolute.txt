@@ -1,0 +1,15 @@
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/hw_task3.csproj.AssemblyReference.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/hw_task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/hw_task3.AssemblyInfoInputs.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/hw_task3.AssemblyInfo.cs
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/hw_task3.csproj.CoreCompileInputs.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/bin/Debug/net6.0/hw_task3
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/bin/Debug/net6.0/hw_task3.deps.json
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/bin/Debug/net6.0/hw_task3.runtimeconfig.json
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/bin/Debug/net6.0/hw_task3.dll
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/bin/Debug/net6.0/hw_task3.pdb
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/hw_task3.dll
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/refint/hw_task3.dll
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/hw_task3.pdb
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/hw_task3.genruntimeconfig.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task3/obj/Debug/net6.0/ref/hw_task3.dll

@@ -1,0 +1,15 @@
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/bin/Debug/net6.0/hw_task2_etalon
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/bin/Debug/net6.0/hw_task2_etalon.deps.json
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/bin/Debug/net6.0/hw_task2_etalon.runtimeconfig.json
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/bin/Debug/net6.0/hw_task2_etalon.dll
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/bin/Debug/net6.0/hw_task2_etalon.pdb
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/hw_task2_etalon.csproj.AssemblyReference.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/hw_task2_etalon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/hw_task2_etalon.AssemblyInfoInputs.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/hw_task2_etalon.AssemblyInfo.cs
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/hw_task2_etalon.csproj.CoreCompileInputs.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/hw_task2_etalon.dll
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/refint/hw_task2_etalon.dll
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/hw_task2_etalon.pdb
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/hw_task2_etalon.genruntimeconfig.cache
+/Users/bsv/VSCode/C#/Ex_sem/lesson2_hw/hw_task2_etalon/obj/Debug/net6.0/ref/hw_task2_etalon.dll
