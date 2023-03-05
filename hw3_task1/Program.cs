@@ -24,20 +24,17 @@ bool ValidateNum(int num)
     {
         Console.WriteLine("Вы ввели неправильное число!");
         return false;
-    } 
+    }
     return true;
 }
 
-//метод проверки на полидромность
+//проверкf на полидромность
 int number = Prompt("Введите пятизначное число: ");
 if (ValidateNum(number))
 {
-    Console.WriteLine("Число правильное! Переходим к выполнению программы: ");
-    for (int i = 0; i < number - 1 - i; i++)
-    {
-        if(number[i] == number[])
-    }
+    string arr = number.ToString();
+    if (arr[0] == arr[4] && arr[1] == arr[3])
+        Console.WriteLine($"Число {number} является полидроном!");
+    else
+        Console.WriteLine($"Число {number} не является полидроном!");
 }
-
-
-
